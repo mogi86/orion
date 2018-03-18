@@ -56,3 +56,6 @@ Choose a simulation number:
 $ cd ~/work/gatling-charts-highcharts-bundle-2.3.1
 $ open results/*******/index.html
 ```
+
+- 自分でソースコードを用意する
+    - `user-files/simulations/computerdatabase/advanced/`配下にscalaファイルを作成する。
